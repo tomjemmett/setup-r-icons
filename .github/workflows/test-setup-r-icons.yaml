@@ -18,7 +18,7 @@ jobs:
         with:
           use-public-rspm: true
 
-      - uses: tomjemmett/setup-r-icons@main
+      - uses: tomjemmett/setup-r-icons@v1
         with:
           icon-sets: fontawesome,simple_icons
 

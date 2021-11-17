@@ -26,7 +26,7 @@ The font set's that are available to download can be found in the `{icons}` pack
 steps:
 - uses: actions/checkout@v2
 - uses: r-lib/actions/setup-r@v1
-- uses: tomjemmett/setup-r-icons@main
+- uses: tomjemmett/setup-r-icons@v1
   with:
     icon-sets: fontawesome,simple_icons
 ```
